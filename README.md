@@ -1,6 +1,6 @@
 <img src="https://github.com/IKJ1992/MiniPojects-with-Python/blob/master/images/wall.jpg" align="center" />
 
-# MiniPojects with Python 📣		
+# 🔔 MiniPojects with Python 		
 
 In this repository, you'll find some simple and mid-level projects about using machine learning and data science in different domains, like: advertising, product and customer analysis, marketing, and so on. Following is a list of the projects:
 

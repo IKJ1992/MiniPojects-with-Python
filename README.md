@@ -4,10 +4,10 @@
 
 In this repository, you'll find some simple and mid-level projects about using machine learning and data science in different domains, like: advertising, product and customer analysis, marketing, and so on. Following is a list of the projects:
 
-- [Advertising and Sales Relationship](https://github.com/IKJ1992/Advertising-Projects-with-Machine-Learning/tree/master/Advertising%20and%20Sales%20Relationship)
-- [Product Data Analysis](https://github.com/IKJ1992/Advertising-Projects-with-Machine-Learning/tree/master/Product%20Data%20Analysis)
-- [Customer Churn Prediction](https://github.com/IKJ1992/Advertising-Projects-with-Machine-Learning/tree/master/Customer%20Churn%20Prediction)
-- [Sales Forcast for Big Mart](https://github.com/IKJ1992/Advertising-Projects-with-Machine-Learning/tree/master/Sales%20Forcast%20for%20Big%20Mart)
+- [Advertising and Sales Relationship](https://github.com/IKJ1992/MiniPojects-with-Python/tree/master/Advertising%20and%20Sales%20Relationship)
+- [Product Data Analysis](https://github.com/IKJ1992/MiniPojects-with-Python/tree/master/Product%20Data%20Analysis)
+- [Customer Churn Prediction](https://github.com/IKJ1992/MiniPojects-with-Python/tree/master/Customer%20Churn%20Prediction)
+- [Sales Forcast for Big Mart](https://github.com/IKJ1992/MiniPojects-with-Python/tree/master/Sales%20Forcast%20for%20Big%20Mart)
 - [comming soon!]
 
 ## Documentation

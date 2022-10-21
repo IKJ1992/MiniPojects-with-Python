@@ -4,13 +4,13 @@
 
 In this repository, you'll find some simple and mid-level projects about using machine learning and data science in different domains, like: advertising, product and customer analysis, marketing, and so on. Following is a list of the projects:
 
-- [Advertising and Sales Relationship](./Advertising%20and%20Sales%20Relationship/)
-- [Product Data Analysis](./Product%20Data%20Analysis/)
-- [Customer Churn Prediction](./Customer%20Churn%20Prediction/)
-- [Sales Forcast for Big Mart](./Sales%20Forcast%20for%20Big%20Mart/)
-- [Attention Mechanism from Scratch](./Attention%20Mechanism%20from%20Scratch/)
-- [Positional Endoing in Transformers from Scratch](./Positional%20Encoding%20in%20Transformers/)
-- [comming soon!]
+1. [Advertising and Sales Relationship](./Advertising%20and%20Sales%20Relationship/)
+2. [Product Data Analysis](./Product%20Data%20Analysis/)
+3. [Customer Churn Prediction](./Customer%20Churn%20Prediction/)
+4. [Sales Forcast for Big Mart](./Sales%20Forcast%20for%20Big%20Mart/)
+5. [Attention Mechanism from Scratch](./Attention%20Mechanism%20from%20Scratch/)
+6. [Positional Endoing in Transformers from Scratch](./Positional%20Encoding%20in%20Transformers/)
+7. [comming soon!]
 
 ## Authors
 

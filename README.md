@@ -9,6 +9,7 @@ In this repository, you'll find some simple and mid-level projects about using m
 - [Customer Churn Prediction](./Customer%20Churn%20Prediction/)
 - [Sales Forcast for Big Mart](./Sales%20Forcast%20for%20Big%20Mart/)
 - [Attention Mechanism from Scratch](./Attention%20Mechanism%20from%20Scratch/)
+- [Positional Endoing in Transformers from Scratch](./Positional%20Encoding%20in%20Transformers/)
 - [comming soon!]
 
 ## Authors

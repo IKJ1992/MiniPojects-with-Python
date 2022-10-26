@@ -12,6 +12,7 @@ In this repository, you'll find some simple and mid-level projects about using m
 6. [Positional Endoing in Transformers from Scratch](./Positional%20Encoding%20in%20Transformers/)
 7. [Game with Hugging Face](./Game%20with%20Hugging%20Face/)
 8. [Transformer from Scratch](./Transformer%20from%20Scratch/) 
+9. [Game with Pytorch](./Game%20with%20Pytorch/)
 - [comming soon!]
 
 ## Authors

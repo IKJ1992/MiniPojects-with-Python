@@ -33,12 +33,16 @@ epochs = 20
 
 for epoch in range(epochs):
 
+    #forward
     y_pred = forward(X)
 
+    # find loss
     l = loss (Y, y_pred)
 
+    #calculate gradient
     dw = gradient(X,Y,y_pred)
 
+    #update weight
     w -= learning_rate*dw
 
     print(f'epoch {epoch+1} | w = {w:.3f} | loss = {l:.3f}')

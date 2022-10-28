@@ -13,7 +13,7 @@ In this repository, you'll find some simple and mid-level projects about using m
 7. [Game with Hugging Face](./Game%20with%20Hugging%20Face/)
 8. [Game with Pytorch](./Game%20with%20Pytorch/)
 9. [Transformer from Scratch](./Transformer%20from%20Scratch/) 
-10. [Linear Regression from Scratch](./Linear%20Regression%20from%20Scratch%20with%20PyTorch/)
+10. [Linear Regression from Scratch](./Linear%20Regression%20from%20Scratch/)
 
 - [comming soon!]
 

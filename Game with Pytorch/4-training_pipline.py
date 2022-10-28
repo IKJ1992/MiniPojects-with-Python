@@ -29,7 +29,15 @@ output_size = n_features
 
 # model = nn.Linear(input_size, output_size)
 
+class LinearRegression(nn.Module):
+    def __init__(self, input_size, output_size) :
+        super().__init__()
+        self.linear = nn.Linear(input_size, output_size)
 
+    def forward(self,x):
+        return self.linear(x)
+
+model = LinearRegression(input_size, output_size)
 
 # print(forward(10))
 

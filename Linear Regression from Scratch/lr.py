@@ -26,7 +26,7 @@ def loss(y, y_pred):
 def gradient(x, y, y_pred):
     return np.dot(2*x, y_pred - y).mean()
 
-print(f'prediction before training y(5): {forward(5)}')
+print(f'\nprediction before training y(5): {forward(5)}\n')
 
 learning_rate = 0.001
 epochs = 20
@@ -47,4 +47,34 @@ for epoch in range(epochs):
 
     print(f'epoch {epoch+1} | w = {w:.3f} | loss = {l:.3f}')
 
-print(f'prediction after training y(5): {forward(5)}')
+print(f'\nprediction after training y(5): {forward(5)}\n')
+
+"""
+output:
+
+prediction before training y(5): 0.5
+
+epoch 1 | w = 1.183 | loss = 114.317
+epoch 2 | w = 1.649 | loss = 21.137
+epoch 3 | w = 1.849 | loss = 3.908
+epoch 4 | w = 1.935 | loss = 0.723
+epoch 5 | w = 1.972 | loss = 0.134
+epoch 6 | w = 1.988 | loss = 0.025
+epoch 7 | w = 1.995 | loss = 0.005
+epoch 8 | w = 1.998 | loss = 0.001
+epoch 9 | w = 1.999 | loss = 0.000
+epoch 10 | w = 2.000 | loss = 0.000
+epoch 11 | w = 2.000 | loss = 0.000
+epoch 12 | w = 2.000 | loss = 0.000
+epoch 13 | w = 2.000 | loss = 0.000
+epoch 14 | w = 2.000 | loss = 0.000
+epoch 15 | w = 2.000 | loss = 0.000
+epoch 16 | w = 2.000 | loss = 0.000
+epoch 17 | w = 2.000 | loss = 0.000
+epoch 18 | w = 2.000 | loss = 0.000
+epoch 19 | w = 2.000 | loss = 0.000
+epoch 20 | w = 2.000 | loss = 0.000
+
+prediction after training y(5): 9.999999600648882
+
+"""

@@ -19,6 +19,7 @@ In this repository, you'll find some simple and mid-level projects about using m
 ## Authors
 
 - [@IKJ1992](https://www.github.com/ikj1992)
+- [you]() If you are interested in making an impact on others' learning, please send me an email!
 
 
 ## License

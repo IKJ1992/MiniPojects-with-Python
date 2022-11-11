@@ -14,7 +14,7 @@ In this repository, you'll find some simple and mid-level projects about using m
 8. [Game with Pytorch](./Game%20with%20Pytorch/)
 9. [Transformer from Scratch](./Transformer%20from%20Scratch/) 
 10. [Linear Regression from Scratch](./Linear%20Regression%20from%20Scratch/)
-
+11. [Household Electric Power Consumption](./Household%20Electric%20Power%20Consumption/)
 - [comming soon!]
 
 ## Authors
